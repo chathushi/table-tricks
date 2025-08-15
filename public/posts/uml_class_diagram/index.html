@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Learn everything about class diagrams …">
+<title>UML Class Diagrams</title>
+
+<link rel='canonical' href='http://localhost:1313/posts/uml_class_diagram/'>
+
+<link rel="stylesheet" href="/scss/style.min.534633389af8c460ece870019a3c272100e500a53622147b8c8e4618018a2ec9.css"><meta property='og:title' content="UML Class Diagrams">
+<meta property='og:description' content="Learn everything about class diagrams …">
+<meta property='og:url' content='http://localhost:1313/posts/uml_class_diagram/'>
+<meta property='og:site_name' content='Table Tricks'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:published_time' content='2021-09-23T12:40:47&#43;00:00'/><meta property='article:modified_time' content='2021-09-23T12:40:47&#43;00:00'/><meta property='og:image' content='http://localhost:1313/posts/uml_class_diagram/uml_class.webp' />
+<meta name="twitter:title" content="UML Class Diagrams">
+<meta name="twitter:description" content="Learn everything about class diagrams …"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/posts/uml_class_diagram/uml_class.webp' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/logo-table-tricks_hu_4b474125c1562e58.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Table Tricks</a></h1>
+            <h2 class="site-description">Thoughts on Data Science, Data Analytics and AI</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/posts' >
+                
+                
+                
+                <span>All Posts</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about' >
+                
+                
+                
+                <span>About Me</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/posts/uml_class_diagram/">
+                <img src="/posts/uml_class_diagram/uml_class_hu_6dc6e3d0978612ae.webp"
+                        srcset="/posts/uml_class_diagram/uml_class_hu_6dc6e3d0978612ae.webp 800w, /posts/uml_class_diagram/uml_class_hu_373a1c774af697ac.webp 1600w"
+                        width="800" 
+                        height="353" 
+                        loading="lazy"
+                        alt="Featured image of post UML Class Diagrams" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/posts/uml_class_diagram/">UML Class Diagrams</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Learn everything about class diagrams …
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Sep 23, 2021</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <hr>
+<p>Since class diagram is the only UML (Unified Modeling Language) diagram which can be mapped directly with object oriented languages, it can be considered as the most common type of diagram that is used in the modeling of object oriented systems. In UML, a class diagram is a static structure diagram and represents the static view of an application. The main objectives of using a class diagram are visualizing, describing and documenting the different aspects of a system. Besides, it can be used for constructing executable code of a software application.</p>
+<p>Class diagram shows the relationships between classes, objects, attributes and operations. In that case, first we have to know how to represent these relationships in a class diagram using the most suitable notations.</p>
+<p>Here we are going to identify the methods of representing different relationships in a class diagram and at the end of this article you will learn all the necessary basics that will help you to create a class diagram by your own.</p>
+<h2 id="concepts-and-notations-needed-to-draw-a-class-diagram">Concepts and notations needed to draw a class diagram
+</h2><ol>
+<li><strong>UML Class Notation</strong></li>
+</ol>
+<p><img src="/posts/uml_class_diagram/uml1.webp"
+	width="631"
+	height="161"
+	srcset="/posts/uml_class_diagram/uml1_hu_5bc58adc7a27228a.webp 480w, /posts/uml_class_diagram/uml1_hu_5899bebe66bcaf7b.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="391"
+		data-flex-basis="940px"
+	
+></p>
+<p>The sign before the attributes and operations represents the access modifiers (public, private or protected) which indicate whether the attributes and methods are hidden from public accessibility or not. This is also called as class visibility. Public, private and protected attributes or operations are denoted by the signs +, - and # respectively.</p>
+<ol start="2">
+<li><strong>Association</strong></li>
+</ol>
+<p>Association represents the static relationships between classes. It is represented by a solid line between classes.</p>
+<ol start="3">
+<li><strong>Cardinality (multiplicity)</strong></li>
+</ol>
+<p>Cardinality concept indicates the number of instances of one class linked to the instances of another class. This can be simply expressed as a one to one, one to many or many to many relationship. Following notations can be used to represent the cardinality in a class diagram.</p>
+<p><img src="/posts/uml_class_diagram/uml2.webp"
+	width="485"
+	height="267"
+	srcset="/posts/uml_class_diagram/uml2_hu_3938b7027836b187.webp 480w, /posts/uml_class_diagram/uml2_hu_611b005b11111986.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="181"
+		data-flex-basis="435px"
+	
+></p>
+<p>eg: Let’s say we have two classes as ‘Student and Course’. A student should do one or more courses, while a course may have zero or more students. We can indicate this scenario as follows.</p>
+<p><img src="/posts/uml_class_diagram/uml3.webp"
+	width="453"
+	height="110"
+	srcset="/posts/uml_class_diagram/uml3_hu_ddf0896f98577241.webp 480w, /posts/uml_class_diagram/uml3_hu_d1467a11ea77f674.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="411"
+		data-flex-basis="988px"
+	
+></p>
+<ol start="4">
+<li><strong>Aggregation</strong></li>
+</ol>
+<p>Aggregation represents a simple ‘has-a relationship’ between two classes. Simply it says that a whole has parts that belong to it. Although parts can belong to the wholes, they can exist independently. In a class diagram aggregation is represented by an arrow with a hollow diamond. Here arrow points towards the whole class.</p>
+<p>eg: Student class has a relationship with the University class. But both University and Student classes can exist independently.</p>
+<p><img src="/posts/uml_class_diagram/uml4.webp"
+	width="543"
+	height="126"
+	srcset="/posts/uml_class_diagram/uml4_hu_7ef12769f28d96e0.webp 480w, /posts/uml_class_diagram/uml4_hu_c7b57a53bb9011a9.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="430"
+		data-flex-basis="1034px"
+	
+></p>
+<ol start="5">
+<li><strong>Composition</strong></li>
+</ol>
+<p>Composition represents a strong ‘has-a relationship’ between two classes. It means both whole and its parts cannot exist independently. This is represented by an arrow with a filled diamond and the arrow points towards the whole class.</p>
+<p>eg: House made of multiple rooms.</p>
+<p><img src="/posts/uml_class_diagram/uml5.webp"
+	width="540"
+	height="126"
+	srcset="/posts/uml_class_diagram/uml5_hu_53c7078bd8b4dffd.webp 480w, /posts/uml_class_diagram/uml5_hu_56d1fb51ae145c81.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="428"
+		data-flex-basis="1028px"
+	
+></p>
+<ol start="6">
+<li><strong>Generalization (Inheritance)</strong></li>
+</ol>
+<p>Concept of generalization represents ‘is-a relationship’ between two classes. Simply it is the relationship between the parent and child classes. An array which points towards the parent class is used to indicate the generalization.</p>
+<p>eg: Lecturer and Student are child classes of the Person class.</p>
+<p><img src="/posts/uml_class_diagram/uml6.webp"
+	width="577"
+	height="301"
+	srcset="/posts/uml_class_diagram/uml6_hu_440a112244d51233.webp 480w, /posts/uml_class_diagram/uml6_hu_246390b68fd780d6.webp 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="191"
+		data-flex-basis="460px"
+	
+></p>
+<p><strong>How aggregation differs from inheritance?</strong></p>
+<p>In aggregation, the whole class can access only the public functions of the part class. But inheritance allows an inheriting class to access the both public and protected functions of the parent class.</p>
+<p>Now we have discussed all the necessary elements that are required to draw a class diagram by your own. The first and most important thing to do when starting to draw a class diagram is identifying the relevant classes and its relationships correctly. In order to do that you have to understand the functionality and the requirements of your software application well.</p>
+<p>You can use Lucidchart or Diagrams.net kind of software to draw your class diagrams easily. There are many other software as well. So you can try with these tools when drawing your class diagrams.</p>
+<p>Hope now you have learned everything related to class diagrams and try to draw some class digrams by your own.</p>
+<p>Thank you very much for reading…</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Table Tricks
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.b635e5b21656c1b1c25ee87fe13095266dac27b80885249486b5d6ed07bfd0ee.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

@@ -1,0 +1,35 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Table Tricks'
+theme = "hugo-theme-stack"
+
+[params]
+  description = "Built with Hugo – Stack theme"
+  mainSections = ["posts"]
+
+[params.sidebar]
+  compact = false
+  subtitle = "Thoughts on Data Science, Data Analytics and AI"
+
+[params.sidebar.avatar]
+  enabled = true
+  local = true
+  src = "img/logo-table-tricks.png"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "All Posts"
+    url = "/posts"
+    weight = 2
+
+  [[menu.main]]
+    name = "About Me"
+    url = "/about"
+    weight = 3 

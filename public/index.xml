@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Table Tricks</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Table Tricks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 14 Aug 2025 16:28:30 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Thu, 14 Aug 2025 16:28:30 -0400</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/profile.jpg&#34;
+    alt=&#34;My Profile Picture&#34; width=&#34;60%&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;chathushi-thalpage&#34;&gt;Chathushi Thalpage
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Software Engineer | Graduate Data Science Student&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/chathushithalpage/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LinkedIn&lt;/a&gt; • &lt;a class=&#34;link&#34; href=&#34;https://chathushinisansala96.medium.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Medium&lt;/a&gt; • &lt;a class=&#34;link&#34; href=&#34;https://github.com/chathushi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About Me
+&lt;/h2&gt;&lt;p&gt;I have over 3 years of experience in the IT industry as a full-stack software developer, specializing in end-to-end feature implementation, issue resolution, and delivering client-specific solutions. I’m skilled in debugging, performance optimization, and applying best coding practices, with a strong focus on using AI tools to boost development efficiency. My expertise includes JavaScript frameworks, PHP, MySQL, and testing frameworks, along with hands-on experience in Docker, Linux, Git, and Jira. I also have a solid foundation in algorithm development and enjoy applying mathematical concepts to design simulation software.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;br&gt;
+OrangeHRM (Colombo, Sri Lanka),  Mar 2022 - Jul 2025&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Actively participated in the complete software development life cycle, from requirement analysis to system
+design, coding, testing, and deployment on stage environments.&lt;/li&gt;
+&lt;li&gt;Identified and implemented alternative solutions to address technical limitations within the software product.&lt;/li&gt;
+&lt;li&gt;Diagnosed and troubleshooted software application issues by analyzing logs and debugging with Xdebug.&lt;/li&gt;
+&lt;li&gt;Enhanced test coverage and efficiency by implementing structured test cases, automating test runs, and refining
+test processes within PHPUnit and Codeception&lt;/li&gt;
+&lt;li&gt;Maintained and regularly updated technical specifications to reflect system changes.&lt;/li&gt;
+&lt;li&gt;Designed and implemented customized solutions to meet diverse client requirements.&lt;/li&gt;
+&lt;li&gt;Handled production queries, identified root causes, and implemented effective solutions.&lt;/li&gt;
+&lt;li&gt;Regularly analyzed and addressed performance issues by optimizing database queries.&lt;/li&gt;
+&lt;li&gt;Developed scripts in PHP and Bash for data loading and system-specific conversions.&lt;/li&gt;
+&lt;li&gt;Followed best coding practices, including OOP concepts, SOLID principles, design patterns, and database
+management concepts.&lt;/li&gt;
+&lt;li&gt;Reviewed and provided feedback on peers’ designs and implementations.&lt;/li&gt;
+&lt;li&gt;Mentored junior developers and conducted knowledge transfer (KT) sessions in areas of expertise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: Java Scripts,php, AngularJS, Vue.js, MySQL, Docker, Linux, Git, SVN, Jira, Power BI Desktop&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer (Intern)&lt;/strong&gt;&lt;br&gt;
+Sutra Technologies (Colombo, Sri Lanka),  Jul 2020 - Jan 2021&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed solid geometry modeling algorithms using geometry engines.&lt;/li&gt;
+&lt;li&gt;Developed 2D/3D shape generation algorithms using mathematical relationships.&lt;/li&gt;
+&lt;li&gt;Implemented 2D editable graphical views with Visualization Tool Kit (VTK) libraries .&lt;/li&gt;
+&lt;li&gt;Successfully applied mathematical concepts to solve real world problems.&lt;/li&gt;
+&lt;li&gt;Demonstrated progress of work through effective presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: C++, MFC Libraries, Open CASCADE, QT Technologies&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education--certifications&#34;&gt;Education &amp;amp; Certifications
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Master of Data Science and AI&lt;/strong&gt;, (Reading), University of Guelph&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor of Science (Honours) in Information Technology&lt;/strong&gt;, (Second Class Upper Division), University of Moratuwa&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CIMA Certificate in Business Accounting (Foundation Level)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certifications on Coursera&lt;/strong&gt; : Machine Learning in Production, Business Analysis and Process Management, Excel Basics for Data Analysis, Introduction to Data Analytics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certifications on TechCanvass&lt;/strong&gt; : Tableau Fundamentals, Agile Scrum Essentials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;achievements--extracurricular-activities&#34;&gt;Achievements &amp;amp; Extracurricular Activities
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1st Runner Up - Roboteers (Intra-faculty Robotics Competition)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High Distinction Merit pass in Australian National Chemistry Quiz&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writer in Medium&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Completion of Western Music Theory &amp;amp; Practical examinations&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Key Role of an IT Business Analyst</title>
+        <link>http://localhost:1313/posts/key-role-of-business-analyst/</link>
+        <pubDate>Sat, 16 Oct 2021 12:40:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/key-role-of-business-analyst/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/key-role-of-business-analyst/ba_picture.webp" alt="Featured image of post Key Role of an IT Business Analyst" /&gt;&lt;hr&gt;
+&lt;p&gt;If you are planning to see yourself as an IT business analyst in the future, this article helps you to build your career as you wish. Here I focus more on the key role of a business analyst in the field of IT and the skills you have to develop to get into this role.&lt;/p&gt;
+&lt;p&gt;In simple words IT business analyst is not just limited to the industry of IT. It expands beyond the IT and touches some major areas of business field as well. So IT business analyst acts as a bridge or a mediator between the IT resources and the business needs of an organization. In IT sector, BA needs to have a sound knowledge on the business domain along with a practical understanding of development methodologies. The business domain may vary according to the organization. However, business analyst should be able to suggest certain things to the customer and should be able to propose what is possible to do with the current technological context.&lt;/p&gt;
+&lt;p&gt;Let’s have a look into some major tasks that have to be done by a business analyst in the field of IT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding the requirements and the problems of the business stakeholders.&lt;/li&gt;
+&lt;li&gt;Gathering data and analyzing the business domain.&lt;/li&gt;
+&lt;li&gt;Documenting the functional and technical design of the systems.&lt;/li&gt;
+&lt;li&gt;Providing technical solutions to the business related problems.&lt;/li&gt;
+&lt;li&gt;Engage in the process of designing and modifying the IT systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to proceed with the above tasks, business analysts must improve his or her interpersonal skills, in addition to the required technical skills. Here I have listed some major skills that have to be developed by an IT business analyst to survive in the industry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Technical awareness&lt;/li&gt;
+&lt;li&gt;Analytical skills&lt;/li&gt;
+&lt;li&gt;Understanding the business domain and project deliverables properly&lt;/li&gt;
+&lt;li&gt;Communication skills (Verbal and Written)&lt;/li&gt;
+&lt;li&gt;Decision making skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having programming knowledge and database proficiency definitely adds a plus point to your career as a business analyst. Besides, business analysts should keep an eye on data visualization methods, because it is very important to see trends and patterns when they come up with new technical solutions to the business related problems.&lt;/p&gt;
+&lt;p&gt;If we consider the business analytical tools and software related to this role, it can depend on the organizational requirements and the major role of the business analyst. However, MS Excel, MS PowerPoint, SQL, Google Analytics and Tableau are some major tools that are relied by the business analysts typically.&lt;/p&gt;
+&lt;p&gt;IT business analyst job still focuses more on the technological side rather focusing much on the business side. But in my point of view, having your profession as an IT business analyst will be an excellent opportunity for you to gather knowledge and experience in multiple fields within a small period of time. It will enhance your analytical skills, decision making skills and skill of handling numerous individuals while shining at IT.&lt;/p&gt;
+&lt;p&gt;Therefore, if you have that passion to engage in this hybrid role of IT and business, this will be a good start for that.&lt;/p&gt;
+&lt;p&gt;Hope you got a basic idea about the role of IT business Analyst. If you enjoyed the article, please hit clap icon.&lt;/p&gt;
+&lt;p&gt;Thank you for reading…&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>What Do Business Analysts Actually Need to Know About SQL?</title>
+        <link>http://localhost:1313/posts/sql_for_ba/</link>
+        <pubDate>Sat, 16 Oct 2021 12:40:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/sql_for_ba/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/sql_for_ba/ba_sql.webp" alt="Featured image of post What Do Business Analysts Actually Need to Know About SQL?" /&gt;&lt;hr&gt;
+&lt;p&gt;If you are planning to work as a business analyst or if you are a novice to the role of business analyst, you must be having the question of “do I really need to know SQL for my career”. Then this article would be the best place for you to solve your problem. Also, this would help you to identify the most important areas of SQL that you need to aware as a business analyst.&lt;/p&gt;
+&lt;p&gt;Simply, Structured Query Language (SQL) is used to interact with databases. Most of the time SQL is one of the most commonly requested skill by employers when they looking to hire a business analyst. But this situation may change based on the nature of the company. If you are going to work for an organization that mainly purchases and implements software instead of building themselves, may not going to use SQL for their work. A company that does a lot of custom built applications and builds their own software in house may definitely look for the SQL competency, when they hire a business analyst. So knowing SQL will be a great advantage and a plus point for you to apply to a any kind of company at anytime.&lt;/p&gt;
+&lt;p&gt;Typically, business analysts don’t use everything that is in SQL. They use only a small subset of SQL. Therefore, business analyst doesn’t need to learn SQL in depth. It is enough to learn the basics of SQL that will help them to do better in their data driven projects .&lt;/p&gt;
+&lt;p&gt;Let’s consider the areas of SQL that a business analyst is expected to use. DML and DQL are the major categories of broader SQL, which should be concerned by a business analyst . Under DML (Data Manipulation Language), we will be considering the following operators.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;INSERT : Enter data into a database.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UPDATE : Update data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DELETE : Delete data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;DQL (Data Query Language) deals with “SELECT” operator which retrieves data from a database.&lt;/p&gt;
+&lt;p&gt;We will take an example to understand how the above SQL operators can be used to handle data in a database.&lt;/p&gt;
+&lt;p&gt;Eg : Let’s say we have a table in our company database named as “CUSTOMER”, including the customer data of our company. Then let’s see how a business analyst needs to use SQL to handle the following scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scenario 1 : Inserting data of a new customer(David Alfred) to the CUSTOMER table.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INSERT INTO CUSTOMER(CustomerName, City, Country) VALUES (‘David Alfred’, ‘Melbourne’, ‘Australia’);&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here customer ID will be automatically updated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scenario 2: Updating the city of the above customer as “Sydney.” (Assume ‘CustomerID’ is 24)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE CUSTOMER SET City = ‘Sydney’ WHERE CustomerID = 24;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scenario 3 : Deleting the data of the customer(David Alfred) from the CUSTOMER table.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DELETE FROM CUSTOMER WHERE CustomerName=’David Alfred’;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can get a basic idea about how to handle data using SQL by using the above simple example. There are lots of online sources that you can refer to improve your SQL knowledge. So I recommend you to go through on those sources to enhance your experience with SQL.&lt;/p&gt;
+&lt;p&gt;Hope now you are aware of how to be a better business analyst with SQL. If you enjoyed the article, please hit clap icon.&lt;/p&gt;
+&lt;p&gt;Thank you for reading…&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>UML Class Diagrams</title>
+        <link>http://localhost:1313/posts/uml_class_diagram/</link>
+        <pubDate>Thu, 23 Sep 2021 12:40:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/uml_class_diagram/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/uml_class_diagram/uml_class.webp" alt="Featured image of post UML Class Diagrams" /&gt;&lt;hr&gt;
+&lt;p&gt;Since class diagram is the only UML (Unified Modeling Language) diagram which can be mapped directly with object oriented languages, it can be considered as the most common type of diagram that is used in the modeling of object oriented systems. In UML, a class diagram is a static structure diagram and represents the static view of an application. The main objectives of using a class diagram are visualizing, describing and documenting the different aspects of a system. Besides, it can be used for constructing executable code of a software application.&lt;/p&gt;
+&lt;p&gt;Class diagram shows the relationships between classes, objects, attributes and operations. In that case, first we have to know how to represent these relationships in a class diagram using the most suitable notations.&lt;/p&gt;
+&lt;p&gt;Here we are going to identify the methods of representing different relationships in a class diagram and at the end of this article you will learn all the necessary basics that will help you to create a class diagram by your own.&lt;/p&gt;
+&lt;h2 id=&#34;concepts-and-notations-needed-to-draw-a-class-diagram&#34;&gt;Concepts and notations needed to draw a class diagram
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;UML Class Notation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml1.webp&#34;
+	width=&#34;631&#34;
+	height=&#34;161&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml1_hu_5bc58adc7a27228a.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml1_hu_5899bebe66bcaf7b.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;391&#34;
+		data-flex-basis=&#34;940px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The sign before the attributes and operations represents the access modifiers (public, private or protected) which indicate whether the attributes and methods are hidden from public accessibility or not. This is also called as class visibility. Public, private and protected attributes or operations are denoted by the signs +, - and # respectively.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Association&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Association represents the static relationships between classes. It is represented by a solid line between classes.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Cardinality (multiplicity)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cardinality concept indicates the number of instances of one class linked to the instances of another class. This can be simply expressed as a one to one, one to many or many to many relationship. Following notations can be used to represent the cardinality in a class diagram.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml2.webp&#34;
+	width=&#34;485&#34;
+	height=&#34;267&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml2_hu_3938b7027836b187.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml2_hu_611b005b11111986.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;435px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;eg: Let’s say we have two classes as ‘Student and Course’. A student should do one or more courses, while a course may have zero or more students. We can indicate this scenario as follows.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml3.webp&#34;
+	width=&#34;453&#34;
+	height=&#34;110&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml3_hu_ddf0896f98577241.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml3_hu_d1467a11ea77f674.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;411&#34;
+		data-flex-basis=&#34;988px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Aggregation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Aggregation represents a simple ‘has-a relationship’ between two classes. Simply it says that a whole has parts that belong to it. Although parts can belong to the wholes, they can exist independently. In a class diagram aggregation is represented by an arrow with a hollow diamond. Here arrow points towards the whole class.&lt;/p&gt;
+&lt;p&gt;eg: Student class has a relationship with the University class. But both University and Student classes can exist independently.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml4.webp&#34;
+	width=&#34;543&#34;
+	height=&#34;126&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml4_hu_7ef12769f28d96e0.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml4_hu_c7b57a53bb9011a9.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;430&#34;
+		data-flex-basis=&#34;1034px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Composition&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Composition represents a strong ‘has-a relationship’ between two classes. It means both whole and its parts cannot exist independently. This is represented by an arrow with a filled diamond and the arrow points towards the whole class.&lt;/p&gt;
+&lt;p&gt;eg: House made of multiple rooms.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml5.webp&#34;
+	width=&#34;540&#34;
+	height=&#34;126&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml5_hu_53c7078bd8b4dffd.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml5_hu_56d1fb51ae145c81.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;428&#34;
+		data-flex-basis=&#34;1028px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Generalization (Inheritance)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Concept of generalization represents ‘is-a relationship’ between two classes. Simply it is the relationship between the parent and child classes. An array which points towards the parent class is used to indicate the generalization.&lt;/p&gt;
+&lt;p&gt;eg: Lecturer and Student are child classes of the Person class.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/uml_class_diagram/uml6.webp&#34;
+	width=&#34;577&#34;
+	height=&#34;301&#34;
+	srcset=&#34;http://localhost:1313/posts/uml_class_diagram/uml6_hu_440a112244d51233.webp 480w, http://localhost:1313/posts/uml_class_diagram/uml6_hu_246390b68fd780d6.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;191&#34;
+		data-flex-basis=&#34;460px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How aggregation differs from inheritance?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In aggregation, the whole class can access only the public functions of the part class. But inheritance allows an inheriting class to access the both public and protected functions of the parent class.&lt;/p&gt;
+&lt;p&gt;Now we have discussed all the necessary elements that are required to draw a class diagram by your own. The first and most important thing to do when starting to draw a class diagram is identifying the relevant classes and its relationships correctly. In order to do that you have to understand the functionality and the requirements of your software application well.&lt;/p&gt;
+&lt;p&gt;You can use Lucidchart or Diagrams.net kind of software to draw your class diagrams easily. There are many other software as well. So you can try with these tools when drawing your class diagrams.&lt;/p&gt;
+&lt;p&gt;Hope now you have learned everything related to class diagrams and try to draw some class digrams by your own.&lt;/p&gt;
+&lt;p&gt;Thank you very much for reading…&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Let’s Learn About Tableau</title>
+        <link>http://localhost:1313/posts/tableau/</link>
+        <pubDate>Tue, 20 Jul 2021 12:40:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/tableau/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/tableau/tableau.webp" alt="Featured image of post Let’s Learn About Tableau" /&gt;&lt;hr&gt;
+&lt;p&gt;If you are interested in learning visual data analytics platforms, this article would be a great match for your interest. Here we discuss about Tableau, which is one of the world’s leading analytical platforms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Tableau?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tableau is an end to end visual analytics platform that allows everyone to review actionable business insights. Also, it is a simple and interactive platform which can be used for powerful data visualization. Besides, Tableau is an in-depth data analytics tool which is capable of combining several data sources such as spreadsheets, databases and cloud data into one program to perform an effective analysis. With Tableau, anyone can visualize and understand data without having any advanced skills in data science.&lt;/p&gt;
+&lt;p&gt;In simple terms, Tableau can be used to analyze different business case studies. You can collect relevant business requirements and you can visualize them using Tableau. Then it would be easier for you to identify opportunities, risks and solve problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to get started with Tableau?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can download and install the Tableau software by visiting the website &lt;a class=&#34;link&#34; href=&#34;https://www.tableau.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.tableau.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are several Tableau products such as Tableau Desktop, Tableau Public, Tableau Prep, Tableau Online etc. Among them Tableau Public is the free version for desktops. Also, you can use the Tableau Online version which has been hosted in the cloud.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What can you do with Tableau?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Accessing the required data sets by connecting to local files (Excel, Text File, Access or other database files) or to a data server (Tableau Server, Google Analytics , Oracle, MySQL, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Having live connections so that any change in the source data will be automatically updated in Tableau.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating different types of charts based on the data we collected. You can create bar charts, line charts, pie charts, histograms, scatter charts, map charts, tree maps or bullet charts based on the requirements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adding filters to the charts and work sheets, so that the end user can easily obtain the desired information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating dashboards after collecting different views and let the user to compare a variety of data simultaneously.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating stories using the prepared dashboards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/tableau/tableau_dashboard.webp&#34;
+	width=&#34;416&#34;
+	height=&#34;261&#34;
+	srcset=&#34;http://localhost:1313/posts/tableau/tableau_dashboard_hu_508963228e26eab9.webp 480w, http://localhost:1313/posts/tableau/tableau_dashboard_hu_48e3c35dcd81b075.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Eg : Tableau Dashboard&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;382px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Tableau is so popular over other analytics tools?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tableau’s easy to use interface and simple drag and drop help user to focus more on analyzing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provides deep analytics capabilities to end user.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tableau enables the user to connect numerous types of data sources. This allows organizations to use their existing architecture and minimize the risk of data investments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data preparation and analysis can be done even by non programmers. No need to have coding skills or advanced data science skills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Helps to transform your data into a powerful dashboard, showing meaningful insights which enable data driven business decisions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User can explore and interact with the visualizations securely through mobiles, tablets or directly in the browser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One of the leading business intelligence platforms that is commonly used in several industries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Why is it important to learn Tableau?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Data or business analysts with Tableau certifications are in high demand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning Tableau helps you to change your job role (Tableau consultant, Business analyst, Data analyst or Business intelligence analyst).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tableau helps your organization to grow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;With Tableau, you can get a good salary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With the facts you learned from this article, now it would be easier for you to get started with Tableau. If you enjoyed the article, please hit clap icon.&lt;/p&gt;
+&lt;p&gt;Thank you for reading…&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
